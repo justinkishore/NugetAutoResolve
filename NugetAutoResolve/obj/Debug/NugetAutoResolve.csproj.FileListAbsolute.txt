@@ -1,0 +1,7 @@
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\bin\Debug\NugetAutoResolve.exe.config
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\bin\Debug\NugetAutoResolve.exe
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\bin\Debug\NugetAutoResolve.pdb
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\bin\Debug\HelloWorldHlpr.dll
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\obj\Debug\NugetAutoResolve.csprojResolveAssemblyReference.cache
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\obj\Debug\NugetAutoResolve.exe
+C:\Users\Kishore\Source\Repos\NugetAutoResolve\NugetAutoResolve\obj\Debug\NugetAutoResolve.pdb
